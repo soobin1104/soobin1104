@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught passionate FrontEnd developer from China 🇨🇳
+I'm a  FrontEnd developer from China 🇨🇳
 
 **About me**
 

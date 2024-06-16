@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div ">
+<div class="display:flex;align-items:center">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width:60%">
     <img src="https://github-readme-stats.vercel.app/api?username=soobin1104&theme=ambient_gradient&repo=my-profile" alt="Anurag's GitHub stats" >
   </a>

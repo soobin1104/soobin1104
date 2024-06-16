@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=soobin1104&theme=ambient_gradient&repo=my-profile" alt="Anurag's GitHub stats" style="width: 100%;">
+<div ">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="width:60%">
+    <img src="https://github-readme-stats.vercel.app/api?username=soobin1104&theme=ambient_gradient&repo=my-profile" alt="Anurag's GitHub stats" >
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin1104&layout=compact" alt="Anurag's GitHub stats" style="flex: 1; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin1104&layout=compact" alt="Anurag's GitHub stats" style="width: 40%">
 </div>
 
 

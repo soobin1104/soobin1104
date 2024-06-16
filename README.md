@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="display:flex;align-items:center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width:60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=soobin1104&theme=ambient_gradient&repo=my-profile" alt="Anurag's GitHub stats" >
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soobin1104&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's GitHub stats" >
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin1104&layout=compact" alt="Anurag's GitHub stats" style="width: 40%">
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin1104&layout=compact&theme=buefy&hide_border=true" alt="Anurag's GitHub stats" >
+
 
 

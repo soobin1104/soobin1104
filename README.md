@@ -30,3 +30,4 @@ I'm a  FrontEnd developer from China 🇨🇳
 
 
 
+![Animated Background](./bg.svg)

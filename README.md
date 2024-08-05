@@ -4,7 +4,9 @@ I'm a FrontEnd developer from China 🇨🇳
 
 **About me**
 
-- ❤️ I love writing TypeScript, Javascript，Vue and React
+- 💖 I love writing TypeScript, Javascript，Vue and React
+- 🎮 League of Legends and Switch Games
+- 🎧 Kpop Music 다 좋아
 
 #### Languages
 

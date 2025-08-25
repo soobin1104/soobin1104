@@ -1,6 +1,7 @@
 ### Hi there,I'm SOOBIN . 👋
 
 I'm a FrontEnd developer from China 🇨🇳
+Now i working in Singapore🇸🇬
 
 **About me**
 
